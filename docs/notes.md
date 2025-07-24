@@ -11,3 +11,4 @@ Notes and usage details for hermes-agency-orchestrator.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
