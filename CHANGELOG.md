@@ -29,3 +29,4 @@
 - fix: clarify the setup steps
 - fix: clarify the setup steps
 - fix: link the usage section
+- docs: add a note about the defaults
