@@ -32,3 +32,4 @@
 - docs: add a note about the defaults
 - docs: link the usage section
 - chore: fix a small wording issue
+- docs: clarify the setup steps
